@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="data:,">
+    <title>양양 스테이와이</title>
+
+    <link rel="stylesheet" href="styles/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <link rel="stylesheet" href="styles/theme.css">
+    <link rel="stylesheet" type="text/css" href="styles/common.css">
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
+    <link rel="stylesheet" type="text/css" href="styles/popup_black.css">
+
+    <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="js/swiper-bundle.min.js"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script type="text/javascript">
+        function setCookie(name, value, expirehours) {
+            var todayDate = new Date();
+            todayDate.setHours(todayDate.getHours() + expirehours);
+            document.cookie = name + "=" + escape(value) + "; path=/; expires=" + todayDate.toGMTString() + ";";
+        }
+
+        function closeWin(id, checkbox) {
+            if (checkbox.checked) {
+                setCookie(id, "done", 1);
+            }
+            document.getElementById(id).style.display = "none";
+        }
+    </script>
+  <!-- Open Graph Meta Tags for Social Media -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="양양 스테이와이" />
+  <meta property="og:description" content="양양 스테이와이에서 화이트우드 감성과 자연힐링 테라스바베큐를 즐기며 조용하고 특별한 하루의 순간들을 보내며 깊은 쉼을 완성하세요." />
+  <meta property="og:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/7WpNP3rYnmxL.jpg" />
+  <meta property="og:url" content="https://stay-y.kr" />
+
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="양양 스테이와이" />
+  <meta name="twitter:description" content="양양 스테이와이에서 화이트우드 감성과 자연힐링 테라스바베큐를 즐기며 조용하고 특별한 하루의 순간들을 보내며 깊은 쉼을 완성하세요." />
+  <meta name="twitter:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/7WpNP3rYnmxL.jpg" />
+  <meta name="naver-site-verification" content="5d9efa66296781b636a7864b5012f8aa06bb338e" />
+  <meta name="google-site-verification" content="J3HV-lePPLpONF5vWCEr-co5asCtjsd_3ON7o8IT_pk" />
+</head>
+<body>
+    <script src="js/header-footer-loader.js"></script>
+    <div id="sh_wrapper">
+    <main id="sh_container">
+    
+            <!-- main_banner [s] -->
+            <article>
+                <div id="main_banner">
+                    <div class="swiper-container main_slide">
+                        <!-- MAPPER: nearbyAttractions.sections[0].hero.images[isSelected] → 슬라이드 동적 생성 -->
+                        <div class="swiper-wrapper"></div>
+                    </div>
+                </div>
+            </article>
+            <!-- main_banner [e] -->
+
+            <!-- sh_content [s] -->
+            <div id="sh_content">
+                <!-- nearby attractions [s] -->
+                <div id="facility1004">
+                    <div class="tit">
+                        <span class="deco"></span>
+                        <!-- MAPPER: nearbyAttractions.hero.title (1순위) / 값 없으면 기본값 유지 -->
+                        <h1 data-nearby-title><span>NEARBY</span> ATTRACTIONS</h1>
+                    </div>
+
+                    <div class="cont">
+                        <div class="inner" data-aos="fade-up">
+                            <!-- MAPPER: nearbyAttractions.about[] → 여행지 리스트 (li: 첫 선택 이미지 + dt 제목 + dd 설명) -->
+                            <ul data-nearby-items></ul>
+                        </div>
+                    </div>
+                </div>
+                <!-- nearby attractions [e] -->
+            </div>
+            <!-- sh_content [e] -->
+
+    </main>
+    </div>
+
+    <script src="js/preview-handler.js"></script>
+    <script src="js/image-helpers.js"></script>
+    <script src="js/data-mapper/core/base-mapper.js"></script>
+    <script src="js/data-mapper/pages/nearby-attractions-mapper.js"></script>
+    <script src="js/data-mapper/pages/header-footer-mapper.js"></script>
+    <script src="js/common.js"></script>
+    <script src="js/pages/nearby-attractions.js"></script>
+</body>
+</html>

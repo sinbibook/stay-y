@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-10-09T08:10:12.867711646Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-10-09T08:31:35.035908224Z",
     "templateType": "trip_e",
     "propertyId": "a1af4c09-9f5e-438d-985b-22d5700df908",
     "homepageId": "0338af6a-158c-4743-b6c4-15a1a70cade9"
@@ -22,13 +22,16 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 17시 00분\n17시 이후 입실 시 사전 문의\n얼리체크인은 12시~1시 가능",
-    "usageGuide": "[공지사항]\n[레이트 체크아웃 안내] \n ※ 성수기 및 주말에는 다음 예약 및 객실 정비로 인해 레이트 체크아웃이 불가한 점 양해 부탁드립니다. \n\n[객실 온도 사용 안내] \n※ 쾌적한 이용과 시설 보호를 위해 객실 내 보일러 온도는 24도 이하 사용을 권장드립니다.  \n※ 24도 이상 사용 시 보일러 과부하로 인해 다른 객실 이용에 불편이 발생할 수 있으니 협조 부탁드립니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 17시 00분\n17시 이후 입실 시 사전 문의\n얼리체크인은 12시~1시 가능\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 36개월 이상~8세 미만\n- 유아: 36개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 36개월 이하 무료\n\n[부대시설]\n[무인 매점]\n- 운영 시간: 24시간\n- 판매 품목: 음료 / 주전부리\n\n[편의 및 주변 시설]\n- 장기투숙자(3박이상) 세탁실 이용 가능\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n\n[주차장]\n- 주차장 보유\n- 전기차 충전기 이용 가능\n※ 차량 5분거리 워터 급속충전소\n\n[교통편]\n[승용차 이용시]\n- 네비게이션 검색: 스테이와이의 주소는 강원 양양군 손양면 상운길 132 입니다 (T맵이나 카카오내비도 이용가능합니다!)\n\n[대중교통 이용시]\n- 스테이와이의 주변에는 동호리버스정류장이 위치해 있으며 도보 8분 거리 입니다 (양양 터미널 택시로 10분 거리에 위치해 있습니다)",
+    "usageGuide": "[레이트 체크아웃 안내] \n ※ 성수기 및 주말에는 다음 예약 및 객실 정비로 인해 레이트 체크아웃이 불가한 점 양해 부탁드립니다. \n\n[객실 온도 사용 안내] \n※ 쾌적한 이용과 시설 보호를 위해 객실 내 보일러 온도는 24도 이하 사용을 권장드립니다.  \n※ 24도 이상 사용 시 보일러 과부하로 인해 다른 객실 이용에 불편이 발생할 수 있으니 협조 부탁드립니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 17시 00분\n17시 이후 입실 시 사전 문의\n얼리체크인은 12시~1시 가능\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 36개월 이상~8세 미만\n- 유아: 36개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 무료\n(1박기준/현장결제)\n※ 36개월 이하 무료\n\n[부대시설]\n[무인 매점]\n- 운영 시간: 24시간\n- 판매 품목: 음료 / 주전부리\n\n[편의 및 주변 시설]\n- 장기투숙자(3박이상) 세탁실 이용 가능\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n\n[주차장]\n- 주차장 보유\n- 전기차 충전기 이용 가능\n※ 차량 5분거리 워터 급속충전소\n\n[교통편]\n[승용차 이용시]\n- 네비게이션 검색: 스테이와이의 주소는 강원 양양군 손양면 상운길 132 입니다 (T맵이나 카카오내비도 이용가능합니다!)\n\n[대중교통 이용시]\n- 스테이와이의 주변에는 동호리버스정류장이 위치해 있으며 도보 8분 거리 입니다 (양양 터미널 택시로 10분 거리에 위치해 있습니다)",
     "reservationGuide": "[레이트 체크아웃 안내] \n ※ 성수기 및 주말에는 다음 예약 및 객실 정비로 인해 레이트 체크아웃이 불가한 점 양해 부탁드립니다. \n\n[객실 온도 사용 안내] \n※ 쾌적한 이용과 시설 보호를 위해 객실 내 보일러 온도는 24도 이하 사용을 권장드립니다.  \n※ 24도 이상 사용 시 보일러 과부하로 인해 다른 객실 이용에 불편이 발생할 수 있으니 협조 부탁드립니다.",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "stay-y.kr",
     "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1584037",
     "ybsId": "79306",
+    "tripPropertyId": "10520",
+    "partnerType": "distributor_a",
+    "tripProviderName": "트립일레븐",
     "amenities": [
       "편의점/매점",
       "엘리베이터",
@@ -147,11 +150,60 @@
         ]
       },
       {
+        "id": "01a11fc7-3f28-7be0-aae4-bc6b86ecc10d",
+        "name": "라운지",
+        "description": "큰 창으로 들어오는 빛과 정돈된 좌석 구성으로\n잠시 앉아 쉬거나, 다음 일정을 정리하기에 부담이 없습니다.",
+        "usageGuide": "",
+        "displayOrder": 2,
+        "images": [
+          {
+            "id": "01a11fc8-fc8f-767d-9001-7cc841fe25b2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11fc7-3f28-7be0-aae4-bc6b86ecc10d/main/1791534623946-t2llqzqicy.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a11fc8-f7ab-7e37-9b3a-d6feefacac5a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11fc7-3f28-7be0-aae4-bc6b86ecc10d/main/1791534623941-rddtvnxkys.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a11fc8-fa37-70ba-ad98-00a2416553a3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11fc7-3f28-7be0-aae4-bc6b86ecc10d/main/1791534623942-75c5zb3tmu.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a11fc8-fa71-7d11-bcdf-a46e2720e0ec",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11fc7-3f28-7be0-aae4-bc6b86ecc10d/main/1791534623941-1psd0xf9b8.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a11fc8-f694-7eaf-9e6c-85c34fdfe7d7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11fc7-3f28-7be0-aae4-bc6b86ecc10d/main/1791534623944-hunraml35q.webp",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "f32f378c-c274-4806-aab1-6c2f4adecbe9",
         "name": "부대시설",
         "description": "",
         "usageGuide": "[무인 매점]\n- 운영 시간: 24시간\n- 판매 품목: 음료 / 주전부리",
-        "displayOrder": 2,
+        "displayOrder": 3,
         "images": [
           {
             "id": "2ee1b5d4-6f99-43a1-b80f-fedcf209f9e4",
@@ -184,7 +236,7 @@
         "name": "편의 및 주변 시설",
         "description": "",
         "usageGuide": "- 장기투숙자(3박이상) 세탁실 이용 가능\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요",
-        "displayOrder": 3,
+        "displayOrder": 4,
         "images": [
           {
             "id": "8a844014-4e25-4af0-806c-bd1ff00a3cee",
@@ -304,7 +356,7 @@
           {
             "id": "5d9248df-96e8-4e2b-b38d-8a5f3fba0d78",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/7WpNP3rYnmxL.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -314,7 +366,7 @@
           {
             "id": "7742d634-c187-4ca7-9228-ec5d42f15401",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/ZAkrnlNWo7f5.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -322,7 +374,7 @@
           {
             "id": "18d34ac5-cedf-47ea-907f-d7c5c03b4981",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/CrOZFqu6zAVb.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -330,7 +382,7 @@
           {
             "id": "6b6bd706-a367-4ad0-89e7-c95a10abe192",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/AjaeSIhLuHN9.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -338,7 +390,7 @@
           {
             "id": "759e4ea8-8add-4203-abd9-f16cf96728c5",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/ixyufMFS8Iel.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -346,7 +398,7 @@
           {
             "id": "5e18cb54-87c2-4332-a9ee-064293d2fc6a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/0VU3C1uafvHK.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -354,7 +406,7 @@
           {
             "id": "ddc03dcc-4d8c-4db5-99e7-d04b96495e03",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/5okR2tHeAcfB.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -362,7 +414,7 @@
           {
             "id": "0fd9c8eb-0d32-41b9-94eb-577b30f19431",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/v4FtGLUT2PYC.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -370,7 +422,7 @@
           {
             "id": "e34ec89a-2ac5-4fcb-ae65-1ae67cee5a80",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/FafdbmCSp2yn.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -379,10 +431,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "tripPropertyId": "10520",
-    "partnerType": "distributor_a",
-    "tripProviderName": "트립일레븐"
+    ]
   },
   "rooms": [
     {
@@ -3745,9 +3794,9 @@
       },
       "theme": {
         "font": {
+          "koMain": null,
           "koSub": null,
-          "enMain": null,
-          "koMain": null
+          "enMain": null
         },
         "color": null
       },
